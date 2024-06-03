@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Killershiper999
-- 👀 I’m interested in learning python
 - 🌱 I’m currently learning python
 
 <!---
