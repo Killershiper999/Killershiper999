@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Killershiper999
--  Those who went hungry with me will eat at my table.
--  All the pros started somewhere
+- 👋 Hola! soy  @Killershiper999
+- 💻 Programar es mi pasatiempo favorito
+  
 
 <!---
 Killershiper999/Killershiper999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
